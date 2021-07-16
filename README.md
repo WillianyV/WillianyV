@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Williany Veras (@WillianyV)
 - 👀 I’m interested in Java, Flutter, React.JS, Node.JS, MySQL, PostgreSQL,
 - 🌱 I’m currently learning PHP, Laravel, Vue.JS, MongoDB
-- 💞️ I’m looking to collaborate on software development, UI/UX
+- 💞️ I’m looking to collaborate on software development and UI/UX
 - 📫 How to reach me williany.veras@gmail.com
 
 <!---

@@ -1,19 +1,20 @@
-- 👋 Hi, I’m Williany Veras (@WillianyV);
+## Hi, I’m Williany Veras 
 - 👀 I’m interested in PHP, Laravel, Java, Flutter, PostgreSQL, MySQL;
-- 🌱 I’m currently learning React.JS, Node.JS, Vue.JS, MongoDB
-- 💞️ I’m looking to collaborate on software development and UI/UX;
-- 📫 How to reach me williany.veras@gmail.com or thalita.veras@comparedistribuidora.com.br
-- 🎒 Principais ferramentas: Visual Studio Code, GitHub e Trello
+- 💻 I’m currently learning React.JS, Node.JS, Vue.JS, MongoDB;
+- 💞️ I’m looking to collaborate on software development and UI/UX projects;
+- 📫 How to reach me williany.veras@gmail.com or thalita.veras@comparedistribuidora.com.br;
+- 🛠️ Tools: Visual Studio Code, GitHub and Trello;
 
 ##
 
  <div>
   <a href="https://github.com/WillianyV">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WillianyV&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianyV&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WillianyV&show_icons=true&theme=omni&include_all_commits=true&count_private=true&locale=en"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianyV&layout=compact&langs_count=7&theme=omni&locale=en"/>
+  
 
 
-<h2>Liguagens e Ferramentas:</h2>
+<h2>Programming languages and tools:</h2>
 <code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/html5-original.svg"></code>
 <code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/css3-original.svg"></code>
 <code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/bootstrap-plain.svg"></code>

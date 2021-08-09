@@ -19,6 +19,7 @@
 <code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/bootstrap-plain.svg"></code>
 <code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/php-original.svg"></code>
 <code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/laravel-plain-wordmark.svg"></code>
+<code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/flutter-original.svg"></code>
 <code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/postgresql-original.svg"></code>
 <code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/git-original.svg"></code>
 <code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/github-original.svg"></code>

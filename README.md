@@ -1,7 +1,7 @@
 ## Hi, I’m Williany Veras 
 - 👀 I’m interested in PHP, Laravel, Java, Flutter, PostgreSQL, MySQL;
 - 💻 I’m currently learning React.JS, Node.JS, Vue.JS, MongoDB;
-- 💞️ I’m looking to collaborate on software development and UI/UX projects;
+- 👩‍💻 I’m looking to collaborate on software development and UI/UX projects;
 - 📫 How to reach me williany.veras@gmail.com or thalita.veras@comparedistribuidora.com.br;
 - 🛠️ Tools: Visual Studio Code, GitHub and Trello;
 

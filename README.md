@@ -1,6 +1,6 @@
 ## Hi, I’m Williany Veras 
 - 👀 I’m interested in PHP, Laravel, Java, Flutter, PostgreSQL, MySQL;
-- 💻 I’m currently working with Web Development at Compare Distribuidora (FAZ)
+- 💻 I’m currently working with Web Development at Compare Distribuidora (FAZ);
 - 👩‍💻 I’m looking to collaborate on software development and UI/UX projects;
 - 📫 How to reach me williany.veras@gmail.com or thalita.veras@comparedistribuidora.com.br;
 - 🛠️ Tools: Visual Studio Code, GitHub and Trello;

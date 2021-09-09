@@ -1,4 +1,5 @@
 ## Hi, I’m Williany Veras 
+- 👨‍🎓 I have a bachelor's degree in information systems, graduating from UFRPE/UAST;
 - 👀 I’m interested in PHP, Laravel, Java, Flutter, PostgreSQL, MySQL;
 - 💻 I’m currently working with Web Development at Grupo Compare - FAZ;
 - 👩‍💻 I’m looking to collaborate on software development and UI/UX projects;

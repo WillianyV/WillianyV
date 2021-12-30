@@ -39,6 +39,3 @@
  ![Snake animation](https://github.com/WillianyV/WillianyV/blob/output/github-contribution-grid-snake.svg)
 </div>
 
- ##
- <img src="https://komarev.com/ghpvc/?username=WillianyV&color=blueviolet&label=Visualizacões+do+perfil" alt="WillianyVeras"/>
-
